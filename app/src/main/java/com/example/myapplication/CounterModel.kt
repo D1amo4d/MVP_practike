@@ -1,13 +1,18 @@
 package com.example.myapplication
 
+import android.widget.Toast
+
 class CounterModel {
-    var count = 0
+    var ageCount = 0
 
     fun inc() {
-        count++
+        ageCount++
     }
 
     fun dec() {
-        count--
+        ageCount--
+    }
+
+    fun messageToast(textToast: String) {
     }
 }
