@@ -11,3 +11,7 @@ in general in
 model-we write what is related to the database
 view we write what we are going to display on the screen 
 The present is what we write.....
+
+![Название изображения](images/example.jpg)
+
+
